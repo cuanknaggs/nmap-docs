@@ -49,3 +49,16 @@
 	* `--top-ports <number>`
 * Scan ports more common than ratio given
 	* `-port-ratio <number>`
+
+# Service version detection
+
+* Probe open ports to determine service/version info
+	* `-sV`
+* Version intensity
+	* `--version-intensity <0-9>`
+* Limit to most likely probes (intensity 2)
+	* `--version-light`
+* Try all probes (intensity 9)
+	* `--version-all`
+* Show scan activity
+	* `--version-trace`
