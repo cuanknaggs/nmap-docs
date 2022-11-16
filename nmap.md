@@ -34,3 +34,18 @@
 	* `--osscan-limit`
 * Guess OS more aggressively
 	* `--osscan-guess`
+
+# Port specification and scan order
+
+* Specify ports
+	* `-p <port>,<port>,<...>/<1-65535>`
+* Scan UDP ports
+	* `-p U:<port>`
+* Fast mode, scans few ports
+	* `-F`
+* Scan ports consecutively
+	* `-r`
+* Scan number of top ports
+	* `--top-ports <number>`
+* Scan ports more common than ratio given
+	* `-port-ratio <number>`
