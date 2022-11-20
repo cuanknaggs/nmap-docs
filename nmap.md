@@ -62,3 +62,17 @@
 	* `--version-all`
 * Show scan activity
 	* `--version-trace`
+# Firewall / IDS evasion and spoofing
+* Fragment IP packets (including ping scans). Can add offset size
+	* `-f [--mtu <value>]`
+* Cloak scanwith decoys
+	* `-D <decoy>,<decoy>`
+* Spoof source address
+	* `-S`
+* Use specified interface
+	* `-e`
+* Send packets with specified ip option
+	* `--ip-options <option>`
+* Set IP time to live field
+	* `--ttl <value>`
+
