@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="1" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A3" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Hack Regular" FONTSIZE="12" FONTFEATURES="-clig,-liga" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Text6_Heading 1" PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style" FONT="Hack Bold" FONTSIZE="18"/>
+        <STYLE NAME="Text6_List 1" PARENT="Default Paragraph Style" LINESPMode="1" Bullet="1" BulletStr="•"/>
+        <STYLE NAME="Text6_Heading 2" PARENT="Default Paragraph Style" LINESPMode="1" FONT="Hack Bold Italic" FONTSIZE="16"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="0" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="1190.55118110236" PAGEHEIGHT="841.889763779528" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="61.3176470588234" OwnPage="0" ItemID="691441700" PTYPE="4" WIDTH="362.397962019453" HEIGHT="144.847058823529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 144.847 L0 144.847 L0 0 Z" copath="M0 0 L362.398 0 L362.398 144.847 L0 144.847 L0 0 Z" gXpos="139.685039370079" gYpos="61.3176470588234" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Target specification"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Input list of hosts/Networks from file"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-iL &lt;fileName.txt&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Scan Random Hosts"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-iR &lt;number&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Exclude host/Networks"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--exclude &lt;host&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Exclude host/Networks from file"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--excludefile &lt;hostFile.txt&gt;"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="218.317647058823" OwnPage="0" ItemID="702018948" PTYPE="4" WIDTH="362.397962019453" HEIGHT="247.047058823529" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 247.047 L0 247.047 L0 0 Z" copath="M0 0 L362.398 0 L362.398 247.047 L0 247.047 L0 0 Z" gXpos="139.685039370079" gYpos="218.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Host discovery"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="List scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sL"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Ping scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sn"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Treat all hosts as online"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-Pn"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Discovery to given ports: TCP SYN/ACK, UDP, SCTP"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-PS/PA/PU/PY &lt;port list&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="ICMP echo, timestamp, and netmask request discovery probes"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-PE/PP/PM"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="IP Protocol ping"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="PO &lt;protocol list&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="DNS resolution: never/always (default: sometimes)"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-n/R"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="141.685039370079" YPOS="472.317647058823" OwnPage="0" ItemID="702488596" PTYPE="4" WIDTH="362.397962019453" HEIGHT="99.7764705882352" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 99.7765 L0 99.7765 L0 0 Z" copath="M0 0 L362.398 0 L362.398 99.7765 L0 99.7765 L0 0 Z" gXpos="141.685039370079" gYpos="472.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="OS detection"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Enable OS detection -O"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Limit detection to promising targets"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--osscan-limit"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Guess OS more aggressively"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--osscan-guess"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="139.685039370079" YPOS="584.317647058823" OwnPage="0" ItemID="701842260" PTYPE="4" WIDTH="362.397962019453" HEIGHT="234.941176470588" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 234.941 L0 234.941 L0 0 Z" copath="M0 0 L362.398 0 L362.398 234.941 L0 234.941 L0 0 Z" gXpos="139.685039370079" gYpos="584.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Port specification and scan order"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Specify ports"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-p &lt;port&gt;,&lt;port&gt;,&lt;...&gt;/&lt;1-65535&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Scan UDP ports"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-p U:&lt;port&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Fast mode, scans few ports"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-F"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Scan ports consecutively"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-r"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Scan number of top ports"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--top-ports &lt;number&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Scan ports more common than ratio given"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-port-ratio &lt;number&gt;"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="511.685039370079" YPOS="76.3176470588234" OwnPage="0" ItemID="717086548" PTYPE="4" WIDTH="362.397962019453" HEIGHT="182.364705882353" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 182.365 L0 182.365 L0 0 Z" copath="M0 0 L362.398 0 L362.398 182.365 L0 182.365 L0 0 Z" gXpos="511.685039370079" gYpos="76.3176470588234" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Service version detection"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Probe open ports to determine service/version info"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sV"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Version intensity"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--version-intensity &lt;0-9&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Limit to most likely probes (intensity 2)"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--version-light"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Try all probes (intensity 9)"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--version-all"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Show scan activity"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--version-trace"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="885.685039370079" YPOS="60.3176470588234" OwnPage="0" ItemID="702662388" PTYPE="4" WIDTH="362.397962019453" HEIGHT="241.988235294117" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 241.988 L0 241.988 L0 0 Z" copath="M0 0 L362.398 0 L362.398 241.988 L0 241.988 L0 0 Z" gXpos="885.685039370079" gYpos="60.3176470588234" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Firewall / IDS evasion and spoofing"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Fragment IP packets (including ping scans). Can add offset size"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-f [--mtu &lt;value&gt;]"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Cloak scanwith decoys"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-D &lt;decoy&gt;,&lt;decoy&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Spoof source address"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-S"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Use specified interface"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-e"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Send packets with specified ip option"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--ip-options &lt;option&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Set IP time to live field"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--ttl &lt;value&gt;"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.685039370079" YPOS="305.317647058823" OwnPage="0" ItemID="719411892" PTYPE="4" WIDTH="362.397962019453" HEIGHT="172.564705882353" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L362.398 0 L362.398 172.565 L0 172.565 L0 0 Z" copath="M0 0 L362.398 0 L362.398 172.565 L0 172.565 L0 0 Z" gXpos="888.685039370079" gYpos="305.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Script scan"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Script default"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sC"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Provide NSE script args in a file"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="–script-args-file=&lt;filename&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Show all data sent and received"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script-trace"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Show script help"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script-help=&quot;&lt;Lua scripts&gt;&quot;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Potential to crash servers / service"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script-args=unsafe=1"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="514.685039370079" YPOS="450.317647058823" OwnPage="0" ItemID="720410612" PTYPE="4" WIDTH="221.550903195923" HEIGHT="370.957943492358" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L221.551 0 L221.551 370.958 L0 370.958 L0 0 Z" copath="M0 0 L221.551 0 L221.551 370.958 L0 370.958 L0 0 Z" gXpos="514.685039370079" gYpos="450.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Scanning techniques"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Xmas scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sX"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="TCP SYN scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sS"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Connect scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sT"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="ACK scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sA"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Window scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sW"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Maimon scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sM"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="UDP scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sU"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="TCP Null scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sN"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="FIN scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sF"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="SCTP INIT scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sY"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="COOKIE-ECHO scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sZ"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="IP protocol scan"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-sO"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="698.685039370079" YPOS="699.317647058823" OwnPage="0" ItemID="720637044" PTYPE="4" WIDTH="279.703844372393" HEIGHT="114.976470588235" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L279.704 0 L279.704 114.976 L0 114.976 L0 0 Z" copath="M0 0 L279.704 0 L279.704 114.976 L0 114.976 L0 0 Z" gXpos="698.685039370079" gYpos="699.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="HTTP service information"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Gather page titles from HTTP services"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script=http-title &lt;host&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Get HTTP headers of web services"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script=http-headers &lt;host&gt;"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Find web apps from known paths"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="--script=http-enum &lt;host&gt;"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="746.685039370079" YPOS="481.317647058823" OwnPage="0" ItemID="721806500" PTYPE="4" WIDTH="227.421491431217" HEIGHT="210.304400185271" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.421 0 L227.421 210.304 L0 210.304 L0 0 Z" copath="M0 0 L227.421 0 L227.421 210.304 L0 210.304 L0 0 Z" gXpos="746.685039370079" gYpos="481.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="NMAP output options"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Output normal"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-oN"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Output XML"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-oX"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Output greppable"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-oG"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Output all 3 formats"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-oA"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Verbose"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-v"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Debuggung"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-d/-dd"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="509.685039370079" YPOS="284.317647058823" OwnPage="0" ItemID="721942708" PTYPE="4" WIDTH="270.197962019452" HEIGHT="152.058823529412" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L270.198 0 L270.198 152.059 L0 152.059 L0 0 Z" copath="M0 0 L270.198 0 L270.198 152.059 L0 152.059 L0 0 Z" gXpos="509.685039370079" gYpos="284.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Script categories"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="ALL"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="AUTH"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="DEFAULT"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="DISCOVERY"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="EXTERNAL"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="INTRUSIVE"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="MALWARE"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="SAFE"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="VULN, etc"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="982.685039370079" YPOS="495.317647058823" OwnPage="0" ItemID="711593492" PTYPE="4" WIDTH="264.809726725334" HEIGHT="169.176470588235" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L264.81 0 L264.81 169.176 L0 169.176 L0 0 Z" copath="M0 0 L264.81 0 L264.81 169.176 L0 169.176 L0 0 Z" gXpos="982.685039370079" gYpos="495.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Timing and performance"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Serial, slowest"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-T0"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Serial, slow"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-T1"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Serial"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-T2"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Parallel"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-T3"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Parallel, fast"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="-T4"/>
+                <ITEXT Unicode="25"/>
+                <ITEXT Unicode="25"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="981.685039370079" YPOS="669.317647058823" OwnPage="0" ItemID="711901588" PTYPE="4" WIDTH="264.245020842981" HEIGHT="155.036683649838" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L264.245 0 L264.245 155.037 L0 155.037 L0 0 Z" copath="M0 0 L264.245 0 L264.245 155.037 L0 155.037 L0 0 Z" gXpos="981.685039370079" gYpos="669.317647058823" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
+                <ITEXT CH="Various TCP/IP protocols"/>
+                <para PARENT="Text6_Heading 1"/>
+                <ITEXT CH="Application layer:"/>
+                <para PARENT="Text6_Heading 2"/>
+                <ITEXT CH="FTP, HTTP, SNMP, BOOTP, DHCP"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Transport layer:"/>
+                <para PARENT="Text6_Heading 2"/>
+                <ITEXT CH="TCP, UDP, ICMP, IGMP"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Network layer:"/>
+                <para PARENT="Text6_Heading 2"/>
+                <ITEXT CH="ARP, IP, RARP"/>
+                <para PARENT="Text6_List 1"/>
+                <ITEXT CH="Data link layer:"/>
+                <para PARENT="Text6_Heading 2"/>
+                <ITEXT CH="SLIP, PPP"/>
+                <para PARENT="Text6_List 1"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
